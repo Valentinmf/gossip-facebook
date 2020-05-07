@@ -1,28 +1,28 @@
 # README
 # THP - Week 5 - Project 4 - The Gossip Project : Facebook style
-# François THIOUNN
+# VALENTIN FIGUEIREDO
 
 
 
 # Notes & Use :
 
 Setup is usual :
- -run in commandline from folder : 
+ -run in commandline from folder :
  	- bundle install
 	- rails db:setup
 	- rails s
-- go to http://localhost:3000 
+- go to http://localhost:3000
 
 Notes : Le boutton like n'est pas intuitif mais marche il suffit de cliquer sur le pouce (en etant connecté ofc)
 
- 
- 
- 
- 
+
+
+
+
 
 
 # Projet : Gossip Project : Facebook style
-  
+
 1. Introduction
 Ça y est ! Tu commences à maîtriser les fondamentaux de Rails, les termes de MVC, routes, params et bases de données te sont familiers et tu commences à être fier des quelques applications que tu as codé cette semaine.
 
